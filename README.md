@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-You must have Java installed to run from the command line.
+This must be run from the command line, and you must have Java installed. You must complie ALL of the files before running TicTacToe with Java.
 
 Basic tic-tac-toe game in Java ulitizing bytestreams to send data from the User or AI to the server.
 
